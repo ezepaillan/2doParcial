@@ -1,0 +1,25 @@
+Parcial Arquitectura de sistemas operativos
+Alumno: Paillan Ezequiel
+
+1)
+a- Los protocolos que interactúan con la capa de aplicación son: HTTP, HTTPS, FTP, SMTP, POP3, DNS, Telnet, SSH
+b- Los protocolos que interactúan con la capa de transporte son: TCP, UDP, SCTP
+2) 
+Clase A: La clase A utiliza 8 bits destinados a la parte de red y 24 bits destinado a la parte de host ya que se utiliza en grandes redes como organizaciones gubernamentales
+Clase B: La clase B utiliza 16 bits destinados a la parte de red y 16 bits destinados a la parte de host, se utiliza esta clase de redes medianas en grandes empresas
+Clase C: La clase C utiliza 24 bits destinados a la parte de red y 8 bits destinados a la parte de host, esta misma clase se utiliza en redes pequeñas como redes domesticas
+3) En la red PAN se pueden conectar dispositivos como smartphones, computadoras portátiles teclados o ratones inalámbricos
+4)
+a- Estoy conectado a la red wifi de mi celular
+b- Pertenece a rango de ip de Clase C
+7) Se necesita un ordenador con buena capacidad de procesamiento, memoria ram y espacio en el disco
+Después necesitarías un software de visualización como VirtualBox 
+Para terminar de crear la máquina virtual necesitas una imagen ISO del sistema operativo que queremos instalar
+8) De la Nube PaaS podemos utilizar los siguientes servicios: Herramientas de desarrollo, Servicios de base de datos, Servicios de runtime, Servicios de gestión, entre otros como de mensajería, machine learning y autenticación y autorización
+9) 
+a- Rama: Son herramientas esenciales en el desarrollo de software que permiten a los equipos trabajar de forma más organizada, flexible y eficiente. Proporciona un mecanismo para aislar los cambios y experimentar con nuevas ideas.
+b- Repositorio: un repositorio es una herramienta fundamental para organizar, gestionar, y preservar información digital. Su importancia radica en la capacidad de facilitar la colaboración, mejorar la eficiencia y garantizar la integridad de los datos
+c- Las 3 áreas de trabajo que utiliza gitbash son las siguientes: 
+Directorio de trabajo: En esta área esta la zona de edición, te muestra la última versión y no se rastrean los cambios en git
+Área de preparación: en esta área se añaden los cambios que se desean incluir y se confirman
+Repositorio git: en esta área está el almacenamiento donde se guardan todas las versiones de los archivos y permite ver el historial completo para volver a versiones anteriores. También sirve como una base de datos
